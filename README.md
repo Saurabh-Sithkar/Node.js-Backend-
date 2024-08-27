@@ -19,3 +19,9 @@ CLI(Command-Line Interface) and GUI(Graphical User Interface) are two different 
 * **Definition** : A visual interface where users interact with the system through graphical elements like windows,icons,buttons and menus.
 * **How It Works** : Users perform tasks by clicking,dragging and dropping using a mouse or touchpad.
 * **Examples** : Windows OS, macOS, Ubuntu Desktop
+# What is Node.js?
+Node.js is a C++ application(CLI) which can understand and run JavaScript code outside  of the browser. It provides a runtime environment built on Chrome's V8 JavaScript engine developers to execute JavaScript on the server side.
+## What is Node.js Used For?
+* Web Servers and APIs
+* Command-Line Tools for example npm,TypeScript,Webpack,ESLint,Babel,Yarn,Create React APP,Vue CLI, Angular CLI, Prettier and more
+* Internet of Things(IOT)
