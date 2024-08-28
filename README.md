@@ -25,3 +25,13 @@ Node.js is a C++ application(CLI) which can understand and run JavaScript code o
 * Web Servers and APIs
 * Command-Line Tools for example npm,TypeScript,Webpack,ESLint,Babel,Yarn,Create React APP,Vue CLI, Angular CLI, Prettier and more
 * Internet of Things(IOT)
+# Why do we need Node.js & How is it different from JS in browser?
+Node.js extends the capabilities of JavaScript beyond what is possible when running javaScript solely in a browser environment. Here's what Node.js can do that normal JavaScript cannot,which make it suitable for building backends.
+# Access to File System
+* **Node.js** : Provides APIs to interact with the file system,allowing you to read,write,delete and manipulate files and directories on the server.
+* **Normal JavaScript** : In a browser,JavaScript is sandboxed for security reasons,meaning it cannot directly access the file system of the client device.
+# Networking Capabilities
+* **Node.js** : Enables the creaton of web servers, handles network requests,and supports low-level networking features like creating TCP/UDP server, handling sockets etc.
+* **Normal JavaScript** : In the browser, JavaScript can make HTTP request (via fetch or XMLHttpRequest), but it cannot create servers or handle low-level networking tasks.
+# Process Management
+
