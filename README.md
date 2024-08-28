@@ -34,4 +34,10 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 * **Node.js** : Enables the creaton of web servers, handles network requests,and supports low-level networking features like creating TCP/UDP server, handling sockets etc.
 * **Normal JavaScript** : In the browser, JavaScript can make HTTP request (via fetch or XMLHttpRequest), but it cannot create servers or handle low-level networking tasks.
 # Process Management
+* **Node.js** : Can spawn child processes,manage multiple threads, and handle system-level tasks like interacting with operating system processes.
+* **Normal JavaScript** : In the browser, JavaScript is limited to running in a single thread and cannot spawn processes or directly interact with the operating system.
+# Interacting with Operating System
+* **Node.js** : Can interact with the operating system to perform tasks like reading environment variables, interacting with system processes,scheduling tasks etc.
+* **Normal JavaScript** : In the browser, JavaScript is sandboxed and cannot interact with the operating system directly, limiting its capabilities to browser-related tasks.
+**And More...**
 
