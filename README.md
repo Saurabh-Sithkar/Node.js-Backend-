@@ -46,4 +46,13 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 3. Some Important Commands<br>
    **touch** : To create file (eg : touch index.html style.css test.txt)<br>
    **mkdir** : To create folders(directory) (eg: mkdir folder1 folder1)<br>
+   **cp** : To copy file (eg: cp index.html folder1) <br>
+   **mv** : To move file (eg: mv style.css folder2/path) <br>
+        `  `  : Also use for rename (eg: mv script.js server.js/path) <br>
+   **rm** : To remove file (eg: rm index.js) <br>
+   **rmdir** : To remove empty directory <br>
+   **rm -r foldername** : To remove fill directory (eg: rm -r foldername)<br>
+  
+
+   
    
