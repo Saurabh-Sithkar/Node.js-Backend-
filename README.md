@@ -52,6 +52,7 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
    **rm** : To remove file (eg: rm index.js) <br>
    **rmdir** : To remove empty directory <br>
    **rm -r foldername** : To remove fill directory (eg: rm -r foldername)<br>
+   **Question :** Create and Delete 10 file using bash command
   
 
    
