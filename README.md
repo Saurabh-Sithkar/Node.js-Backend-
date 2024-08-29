@@ -43,4 +43,5 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 # Basic of Terminal
 1. Introduction to Terminal and Shell
 2. Basic Shell Commands (echo,pwd,whoami)
-
+3. Some Important Commands
+   **touch** : To create file (eg : touch index.html style.css test.txt)
