@@ -40,4 +40,7 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 * **Node.js** : Can interact with the operating system to perform tasks like reading environment variables, interacting with system processes,scheduling tasks etc.
 * **Normal JavaScript** : In the browser, JavaScript is sandboxed and cannot interact with the operating system directly, limiting its capabilities to browser-related tasks.
 **And More...**
+# Basic of Terminal
+1. Introduction to Terminal and Shell
+2. Basic Shell Commands (echo,pwd,whoami)
 
