@@ -52,7 +52,10 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
    **rm** : To remove file (eg: rm index.js) <br>
    **rmdir** : To remove empty directory <br>
    **rm -r foldername** : To remove fill directory (eg: rm -r foldername)<br>
-   **Question :** Create and Delete 10 file using bash command
+   **Question :** Create and Delete 10 file using bash command<br>
+   **cat** : To read file (eg: cat test.sh)<br>
+   **nano** : To edit file (eg: nano index.html)<br>
+   **vi** : To edit file (eg: vi app.js) -> To save - :w -> To exit - :q -> To exit without save- :q! -> To save and exit- :wq (press esc first)
   
 
    
