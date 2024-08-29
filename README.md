@@ -55,7 +55,8 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
    **Question :** Create and Delete 10 file using bash command<br>
    **cat** : To read file (eg: cat test.sh)<br>
    **nano** : To edit file (eg: nano index.html)<br>
-   **vi** : To edit file (eg: vi app.js) -> To save - :w -> To exit - :q -> To exit without save- :q! -> To save and exit- :wq (press esc first)
+   **vi** : To edit file (eg: vi app.js) -> To save - :w -> To exit - :q -> To exit without save- :q! -> To save and exit- :wq (press esc first)<br>
+   # Basic of Operating System(OS)
   
 
    
