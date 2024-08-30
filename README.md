@@ -66,6 +66,9 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 * **Single-Threaded Event Loop** : Node.js runs JavaScript code on a single thread, making it single-threaded by default. This is efficient for I/O-bound operations but can struggle with CPU-intensive tasks.<br>
 * **Worker Threads** : Introduced in Node.js to handle CPU-bound tasks in parallel, allowing you to create additional threads that run independently of the main event loop.<br>
 * **Parallelism** : Worker threads enable parallelism, but the main event loop remains single-threaded, which is why Node.js is still considered single-threaded overall.<br>
-* **Node.js** is mainly **single-threaded**, running JavaScript on a single thread with an event loop, ideal for I/O-bound tasks. However, it can be multi-threaded using libuv's thread pool for background tasks and the worker_threads module for parallel execution, allowing it to handle CPU-intensive tasks while keeping the main event loop single-threaded.
+* **Node.js** is mainly **single-threaded**, running JavaScript on a single thread with an event loop, ideal for I/O-bound tasks. However, it can be multi-threaded using libuv's thread pool for background tasks and the worker_threads module for parallel execution, allowing it to handle CPU-intensive tasks while keeping the main event loop single-threaded.<br>
+**Every process has atleast one thread(main thread).**<br>
+* Command to add Environment Variables : num=8 age=3 node --inspect app.js<br>
+
    
    
