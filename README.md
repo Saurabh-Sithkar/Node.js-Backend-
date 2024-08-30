@@ -61,6 +61,8 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
     2. What is OS and Kernal?
     3. What is Proces? (In details) (extension : process hacker -> To show context switching)
     4. What is Thread,Concurrency and Pralleism?
+  **Spawning** : In computing, spawning a process is when a parent process starts or triggers a child process.<br>
+**Node.js is  multithreaded** ( use module : worker_threads ) 
 
    
    
