@@ -57,7 +57,10 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
    **nano** : To edit file (eg: nano index.html)<br>
    **vi** : To edit file (eg: vi app.js) -> To save - :w -> To exit - :q -> To exit without save- :q! -> To save and exit- :wq (press esc first)<br>
    # Basic of Operating System(OS)
-  
+    1. What is CPU,Processor and Core?
+    2. What is OS and Kernal?
+    3. What is Proces? (In details) (extension : process hacker -> To show context switching)
+    4. What is Thread,Concurrency and Pralleism?
 
    
    
