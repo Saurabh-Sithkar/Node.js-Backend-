@@ -62,7 +62,10 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
     3. What is Proces? (In details) (extension : process hacker -> To show context switching)
     4. What is Thread,Concurrency and Pralleism?
   **Spawning** : In computing, spawning a process is when a parent process starts or triggers a child process.<br>
-**Node.js is  multithreaded** ( use module : worker_threads ) 
-
+* **Node.js is  multithreaded** ( use module : worker_threads ) <br>
+* **Single-Threaded Event Loop** : Node.js runs JavaScript code on a single thread, making it single-threaded by default. This is efficient for I/O-bound operations but can struggle with CPU-intensive tasks.<br>
+* **Worker Threads** : Introduced in Node.js to handle CPU-bound tasks in parallel, allowing you to create additional threads that run independently of the main event loop.<br>
+* **Parallelism** : Worker threads enable parallelism, but the main event loop remains single-threaded, which is why Node.js is still considered single-threaded overall.<br>
+* **Node.js** is mainly **single-threaded**, running JavaScript on a single thread with an event loop, ideal for I/O-bound tasks. However, it can be multi-threaded using libuv's thread pool for background tasks and the worker_threads module for parallel execution, allowing it to handle CPU-intensive tasks while keeping the main event loop single-threaded.
    
    
