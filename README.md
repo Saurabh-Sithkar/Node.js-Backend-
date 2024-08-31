@@ -69,6 +69,9 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 * **Node.js** is mainly **single-threaded**, running JavaScript on a single thread with an event loop, ideal for I/O-bound tasks. However, it can be multi-threaded using libuv's thread pool for background tasks and the worker_threads module for parallel execution, allowing it to handle CPU-intensive tasks while keeping the main event loop single-threaded.<br>
 **Every process has atleast one thread(main thread).**<br>
 * Command to add Environment Variables : num=8 age=3 node --inspect app.js<br>
+# What are Executable Files?
+* Binary Executable File
+* Script Executable File
 
    
    
