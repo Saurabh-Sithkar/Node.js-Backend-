@@ -73,5 +73,3 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 # What are Executable Files?
 * Binary Executable File
 * Script Executable File
-
-   
