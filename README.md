@@ -79,3 +79,6 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 * To Export the file : **module.exports = filename**;<br>
 * To Use that file : **require("path")**<br>
 * require is a function that return module.exports
+* require function sychronous hota ha
+* require function first load the file then run .
+# Module.exportss VS Exports
