@@ -73,3 +73,9 @@ Node.js extends the capabilities of JavaScript beyond what is possible when runn
 # What are Executable Files?
 * Binary Executable File
 * Script Executable File
+# Introduction of Node.js
+**Common JS Module** : If some code is used multiple time in your code then we make a seprate file for that, that file is called module.
+<br>
+* To Export the file : **module.exports = filename**;<br>
+* To Use that file : **require("path")**<br>
+* require is a function that return module.exports
